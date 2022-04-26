@@ -36,12 +36,11 @@
   letter-spacing: 1px;
 }
 
-/* ADD BACKSLASH - REMOVED FOR GITHUB */
 .banner header .toggle {
   position: relative;
   width: 36px;
   height: 28px;
-  background: url(images/toggle.png);
+  background: url(/images/toggle.png);
   background-size: contain;
 }
 
@@ -98,9 +97,8 @@
   letter-spacing: 1px;
 }
 
-/* ADD BACKSLASH - REMOVED FOR GITHUB */
 .about .imgBox {
-  background: url(images/window.jpg);
+  background: url(/images/window.jpg);
   width: 50%;
   background-size: cover;
   background-position: center;
@@ -232,17 +230,15 @@
   text-align: center;
 }
 
-/* ADD BACKSLASH - REMOVED FOR GITHUB */
 .imgBox2 {
-  background: url(images/bg2.jpg);
+  background: url(/images/bg2.jpg);
   background-size: cover;
   background-position: center;
   width: 50%;
 }
 
-/* ADD BACKSLASH - REMOVED FOR GITHUB */
 .redbg {
-  background: url(images/red.jpg) !important;
+  background: url(/images/red.jpg) !important;
   background-size: cover;
   background-position: center;
 }
